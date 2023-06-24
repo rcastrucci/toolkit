@@ -3,8 +3,8 @@
 	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 https://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 
-	<groupId>brr.com.hotelnet</groupId>
-	<artifactId>ToolKit</artifactId>
+	<groupId>com.rcastrucci.dev</groupId>
+	<artifactId>toolkit</artifactId>
 	<version>1.0.0</version>
 
 	<build>
@@ -86,9 +86,9 @@
 
 	<name>ToolKit</name>
 	<description>
-		Hotelnet ToolKit Library.
+		ToolKit Library
 	</description>
-	<url>https://github.com/hotelnet-br/ToolKit</url>
+	<url>https://github.com:rcastrucci/toolkit.git</url>
 
 	<licenses>
 		<license>
@@ -109,9 +109,9 @@
 	</distributionManagement>
 
 	<scm>
-		<connection>scm:git:git://github.com/hotelnet-br/ToolKit.git</connection>
-		<developerConnection>scm:git:ssh://github.com/hotelnet-br/ToolKit.git</developerConnection>
-		<url>https://github.com/hotelnet-br/ToolKit</url>
+		<connection>scm:git:git://github.com:rcastrucci/toolkit.git</connection>
+		<developerConnection>scm:git:ssh://github.com:rcastrucci/toolkit.git</developerConnection>
+		<url>https://github.com:rcastrucci/toolkit.git</url>
 		<tag>v1.0</tag>
 	</scm>
 

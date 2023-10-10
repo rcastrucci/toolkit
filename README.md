@@ -1,5 +1,5 @@
 # Tool Kit
-Central Maven Library
+Central Maven Library - Toolkit library
 
 [![Maven Central](https://img.shields.io/maven-central/v/com.rcastrucci.dev/toolkit.svg)](https://central.sonatype.com/artifact/com.rcastrucci.dev/toolkit/1.0.0)
 
